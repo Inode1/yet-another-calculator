@@ -19,7 +19,7 @@ Build as any regular out-of-source CMake project.
 Example:
 
     git clone https://github.com/Inode1/yet-another-calculator.git
-    cd CurrencyExchangeService
+    cd yet-another-calculator
     mkdir build
     cd build
     cmake ..
